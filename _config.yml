@@ -1,29 +1,30 @@
 # ----
 # Site
 
-title: Justice Template
-url: "https://orchid-heron.cloudvent.net"
+title: AdaptCyber
+url: "https://www.adaptcyber.com"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
-disqus_shortname:
+disqus_shortname: www-adaptcyber-com
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Jekyll template with example content for a law firm.
-author:
-  name:
-  email:
+description: AdaptCyber "Simplify | Protect | Secure"
+author: 
+  name: 
+  email: sales@adaptcyber.com
   twitter: # twitter username without the @ symbol
 social:
-  name: Justice Template
+  name: AdaptCyber
   links:
     - https://github.com/CloudCannon/justice-jekyll-template
+    - https://rotherhamhotel.co.nz
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: UTC +13 
 
 paginate: 10
 paginate_path: "/advice/:num/"
@@ -37,8 +38,8 @@ defaults:
       path: ""
     values:
       layout: page
-      background_image_path: /uploads/building.jpg
-      image: /uploads/building.jpg
+      background_image_path: /uploads/AdaptCyberWebsiteTitle1.jpeg
+      image: /uploads/AdaptCyberWebsiteTitle1.jpeg
   -
     scope:
       path: ""
@@ -79,6 +80,8 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENCE
+_editor:
+  default_path: /about/
 
 # -----------
 # CloudCannon
@@ -89,14 +92,14 @@ call_to_actions:
   - Map
 
 social_icons:
-  - Facebook
-  - Google Plus
-  - Instagram
+ # - Facebook
+ # - Google Plus
+ # - Instagram
   - LinkedIn
-  - Pinterest
-  - Tumblr
+ # - Pinterest
+ # - Tumblr
   - Twitter
-  - YouTube
+ # - YouTube
   - RSS
 
 _comments:
