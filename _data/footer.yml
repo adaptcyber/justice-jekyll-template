@@ -12,19 +12,23 @@
       link: /advice/
 - title: Social
   links:
-    - name: Facebook
-      link:
-      social_icon: Facebook
+    - name: LinkedIn
+      link: 'https://www.linkedin.com/in/gregory-fenwick-25572621/'
+      social_icon: LinkedIn
       new_window: true
     - name: Twitter
-      link:
+      link: 'https://twitter.com/adaptcyber'
       social_icon: Twitter
       new_window: true
-    - name: Google+
-      link:
-      social_icon: Google Plus
+    - name: CertNZ
+      link: 'https://www.cert.govt.nz/'
+      social_icon:
       new_window: true
-    - name: LinkedIn
-      link:
-      social_icon: LinkedIn
+    - name: The CyberWire
+      link: 'https://thecyberwire.com/'
+      social_icon:
+      new_window: true
+    - name: Threatpost | The first stop for security news RSS Feed
+      link: 'https://threatpost.com/feed/'
+      social_icon: RSS
       new_window: true
