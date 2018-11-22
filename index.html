@@ -1,17 +1,19 @@
 ---
-title:
+title: AdaptCyber
 call_to_action: Contact
 background_image_path:
 large_header: true
 testimonials:
   - message: Adaptcyber testimonal 1
-    image: "//placekitten.com/g/60/60?a=.png"
+    image: //placekitten.com/g/60/60?a=.png
     name: Example 1
-  - message: Adaptcyber testimonal 2. Being local, they care about people and have strong ties to the community.
-    image: "//fillmurray.com/60/60?a=.png"
+  - message: >-
+      Adaptcyber testimonal 2. Being local, they care about people and have
+      strong ties to the community.
+    image: //fillmurray.com/60/60?a=.png
     name: Example 2
   - message: Adaptcyber testimonal 3. Highly recommended to all.
-    image: "//placebear.com/60/60?a=.png"
+    image: //placebear.com/60/60?a=.png
     name: Example 3
 _options:
   image:
@@ -29,7 +31,7 @@ _options:
 	{% for testimonial in page.testimonials %}
 		<blockquote class="testimonial">
 			<p class="testimonial-message">{{ testimonial.message }}</p>
-			<p class="testimonial-author"><img src="{% include relative-src.html src=testimonial.image %}" alt="Photo of {{ testimonial.name }}"> {{ testimonial.name }}</p>
+			<p class="testimonial-author"><img src="{% include relative-src.html src=testimonial.image %}" alt="Photo of {{ testimonial.name }}" /> {{ testimonial.name }}</p>
 		</blockquote>
 	{% endfor %}
-</div> -->
+ -->
