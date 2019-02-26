@@ -3,7 +3,7 @@ title: AdaptCyber Security News
 date: 2019-02-26 00:00:00
 categories:
   - CyberSecurity
-author_staff_member: Greg-Fenwick
+author_staff_member: Greg Fenwick
 image: "https://unsplash.it/600/450?image=737&a=.png"
 large_header: false
 ---
