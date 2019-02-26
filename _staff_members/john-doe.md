@@ -1,8 +1,8 @@
 ---
-name: John Doe
+name: Greg Fenwick
 image: "//placebear.com/440/440?a=.png"
 credentials: LLB
 phone_extension: "11"
 ---
 
-With an interest in employment law, John works tirelessly to improve workplaces.
+With an interest in CyberSecurity, Greg works tirelessly to improve workplaces.
