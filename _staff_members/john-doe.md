@@ -1,5 +1,5 @@
 ---
-name: Greg-Fenwick
+name: Greg Fenwick
 image: "//placebear.com/440/440?a=.png"
 credentials: LLB
 phone_extension: "11"
