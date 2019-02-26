@@ -1,6 +1,6 @@
 ---
-title: Real Estate Flipping
-date: 2016-11-11 00:00:00
+title: AdaptCyber Security News
+date: 2019-03-05 00:00:00
 categories:
   - Property
 author_staff_member: Greg-Fenwick
